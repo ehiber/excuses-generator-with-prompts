@@ -26,17 +26,13 @@ Additionally, the project introduces the use of Copilot as a development support
   
 ## 🌱 How to Start This Project
 
-Do not clone this repository because we are going to use a different template.
-
-We recommend opening the `excuses-generator-with-prompts` repository using a development environment like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command.
-
-This is the repository you need to open or clone:
+Open the starter repository using a provisioning tool such as [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or clone it locally:
 
 ```text
-https://github.com/4GeeksAcademy/excuses-generator-with-prompts
+https://github.com/4GeeksAcademy/html-hello
 ```
 
-**👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
+Follow the steps in [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-coding-project).
 
 </onlyfor>
 
