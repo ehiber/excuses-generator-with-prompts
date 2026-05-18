@@ -5,14 +5,9 @@
 		"es": "Crea un Generador de Excusas en JavaScript con Prompts"
 	},
 	"status": "published",
-	"video": {
-		"solution": {
-			"us": "https://www.youtube.com/watch?v=n43ORx4GMJ0"
-		}
-	},
 	"solution": "",
 	"duration": 4,
-	"template_url" : "https://github.com/4GeeksAcademy/excuses-generator-with-prompts",
+	"template_url" : "https://github.com/4GeeksAcademy/html-hello",
 	"preview": "",
 	"translations": ["es", "us"],
 	"difficulty": "beginner",
@@ -33,6 +28,6 @@
 	"autoPlay": false,
 	"projectType": "project",
     "telemetry": {
-	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=180"
+	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id="
     }
 }
