@@ -29,12 +29,10 @@ Además, el proyecto introduce el uso de Copilot como herramienta de apoyo al de
 
 No clones este repositorio porque vamos a usar una plantilla diferente.
 
-Recomendamos abrir el repositorio `excuses-generator-with-prompts` utilizando un entorno de desarrollo como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
-
-Este es el repositorio que necesitas abrir o clonar:
+Abre el repositorio de plantilla usando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o clonalo en local:
 
 ```text
-https://github.com/4GeeksAcademy/excuses-generator-with-prompts
+https://github.com/4GeeksAcademy/html-hello
 ```
 
 **👉 Por favor sigue estos pasos sobre** [cómo comenzar un proyecto de programación.](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
